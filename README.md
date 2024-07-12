@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wayphantomme
+- 👋 Hi, I’m Phantom Megaditha
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Business Digital
 - 💞️ I’m looking to collaborate on Remote Working
