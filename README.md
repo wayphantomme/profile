@@ -33,11 +33,11 @@ My name is [Phantom Megaditha](https://www.instagram.com/wayphantomme/), and I a
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📊 My Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yoghantara08&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wayphantomme&theme=vue-dark)](https://git.io/streak-stats)
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoghantara08&theme=vue-dark&show_icons=true&text_color=C1CFC0&title_color=E7E0C9)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayphantomme&theme=vue-dark&show_icons=true&text_color=C1CFC0&title_color=E7E0C9)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoghantara08&layout=compact&theme=vue-dark&text_color=C1CFC0&title_color=E7E0C9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayphantomme&layout=compact&theme=vue-dark&text_color=C1CFC0&title_color=E7E0C9)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 wayphantomme/wayphantomme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
