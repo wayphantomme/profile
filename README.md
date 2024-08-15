@@ -1,12 +1,12 @@
 # Hello! 😄
 
-My name is [Ida Bagus Ketut Yoghantara](https://yoghantara.vercel.app), and I am an undergraduate student at ITB Stikom Bali, majoring in Information Systems. I am currently studying Web Development, and this Github account will serve as a witness to my long journey of learning and growth in this field.
+My name is [Phantom Megaditha](https://www.instagram.com/wayphantomme/), and I am an undergraduate student at ITB Stikom Bali, majoring in Digital Business. I am currently studying Web Development, and this Github account will serve as a witness to my short journey of learning and growth in this field.
 
 ## 📞 Connect with me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyoghantara@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoghantara/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gustutyoghantara/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phantombagus@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wayan-phantom-megaditha-69641a15b/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wayphantomme/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/853617679588261899)
 
 ## 💻 Technologies & Tools
