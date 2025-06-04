@@ -22,22 +22,10 @@ This GitHub is where I document my progress, from HTML pages to neural networks�
 - React & Node.js *(in progress)*
 - Building full-stack web apps
 
-### 🤖 AI & Machine Learning *(Future Goals)*
+### 🤖 AI & Machine Learning
 - Python for Data Science
 - Machine Learning & Deep Learning (TensorFlow, PyTorch)
 - Applied AI in Business & Web
-
----
-
-## 📁 Projects
-
-| Name | Description | Stack |
-|------|-------------|-------|
-| `personal-portfolio` | My portfolio website built with HTML/CSS | HTML, CSS |
-| `todo-app` | Simple to-do list app | JavaScript |
-| `ai-learning-notes` | Notes and code from my ML learning journey | Python, Jupyter |
-
-More projects coming soon. I'm currently working on integrating AI with web applications!
 
 ---
 
