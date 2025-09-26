@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wayan Phantom Megaditha
 
-🎓 Undergraduate Student | 📍 ITB STIKOM Bali 
+🎓 Undergraduate Student | 📍 ITB STIKOM Bali <br/>
 💻 Aspiring AI Engineer | Currently learning Web Development  
 
 ---
