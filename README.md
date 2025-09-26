@@ -43,7 +43,6 @@ This GitHub is where I document my progress, from HTML pages to neural networksâ
 - ðŸ’¬ I'm open to collaboration, mentoring, and learning together!
 
 ---
-
 ###
 
 <h2 align="left">I code with</h2>
