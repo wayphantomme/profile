@@ -82,7 +82,3 @@ This GitHub is where I document my progress, from HTML pages to neural networksâ
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/wayphantomme/wayphantomme/output/snake.svg" alt="Snake animation" />
-
-###
