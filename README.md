@@ -25,10 +25,15 @@ This GitHub is where I document my progress, from HTML pages to neural networks�
 
 ## 🧠 My Focus Areas
 
-### 🌐 Web Development
+### 🎨 Front-End Development
 - HTML, CSS, JavaScript
-- React & Node.js *(in progress)*
-- Building full-stack web apps
+- React & Next.js *(in progress)*
+- Responsive, accessible UI/UX
+
+### 🪙 Blockchain
+- Solidity & Smart Contracts
+- Web3.js / ethers.js
+- dApp development & NFT experiments
 
 ### 🤖 AI & Machine Learning
 - Python for Data Science
