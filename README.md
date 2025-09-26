@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Wayan Phantom Megaditha
 
-🎓 Undergraduate Student | 📍 ITB STIKOM Bali  
-📚 Majoring in Digital Business  
+🎓 Undergraduate Student | 📍 ITB STIKOM Bali 
 💻 Aspiring AI Engineer | Currently learning Web Development  
 
 ---
@@ -45,4 +44,40 @@ This GitHub is where I document my progress, from HTML pages to neural networks�
 
 ---
 
-> 🛠️ *“Learning by building — this repo is a witness to my journey.”*
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/wayphantomme/wayphantomme/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wayphantomme/wayphantomme/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wayphantomme/wayphantomme/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wayphantomme/wayphantomme/output/pacman-contribution-graph.svg">
+</picture>
+
+###
